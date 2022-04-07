@@ -1,0 +1,2 @@
+<0> rien
+<1> meuble <Table> <cuisine> <1> <ecrou> <2> <planche> <5>
